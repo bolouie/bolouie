@@ -1,4 +1,4 @@
-name: myactions README
+name: Recent Activity
 
 on:
   schedule:
