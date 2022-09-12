@@ -1,4 +1,8 @@
-### Hello, my name is Bo. 👋
+### Hello 👋 my name is Bo and I code.
+
+![mydesksetup](https://github.com/bolouie/bolouie/blob/main/20210502_184856.jpg)
+
+<!--START_SECTION:activity--> 
 
 <!--
 **bolouie/bolouie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
