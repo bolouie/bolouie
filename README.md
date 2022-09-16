@@ -1,7 +1,7 @@
 ### Hello 👋 my name is Bo and I code.
 
 - 🎯 My goal is to become a good open source citizen.
-- 🔋 I’m currently working a Django project for my portfolio. 
+- 🔋 I’m currently working on a Django project for my portfolio. 
 - 📚 I’m curious about developers using the MERN stack and Vuejs.
 - 🔮 I'm still getting familiar with the ins and outs of GitHub.
 
