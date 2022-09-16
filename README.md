@@ -1,6 +1,12 @@
 ### Hello 👋 my name is Bo and I code.
 
-![mydesksetup](https://github.com/bolouie/bolouie/blob/main/20210502_184856.jpg)
+- 🎯 My goal is to become a good open source citizen.
+- 🔋 I’m currently working a Django project for my portfolio. 
+- 📚 I’m curious about developers using the MERN stack and Vuejs.
+- 🔮 I'm still getting familiar with the ins and outs of GitHub.
+
+- 💙 Always open to constructive feedback on Twitter. 
+
 
 <!--
 **bolouie/bolouie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
