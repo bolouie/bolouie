@@ -1,10 +1,9 @@
 ### Hello 👋 my name is Bo and I code.
 
-- 🔋 I’m currently working on a Django project for my portfolio. 
+- 🔋 I’m currently working on my dev portfolio. 
 - 📚 I’m curious about developers using the MERN stack and Vuejs.
-- 🔮 I'm still getting familiar with the ins and outs of GitHub.
+- 🧭 I'm still getting familiar with the ins and outs of open source.
 
-- 💙 Always open to constructive feedback on Twitter. 
 
 
 <!--
