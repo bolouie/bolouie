@@ -34,13 +34,13 @@ src="https://img.shields.io/twitter/follow/bo_louie?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bolouie"><img src="https://github-readme-stats.vercel.app/api?username=bolouie&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="bolouie's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/bolouie"><img src="https://github-readme-stats.vercel.app/api?username=bolouie&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="bolouie's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/bolouie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bolouie&stroke=64748b&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/bolouie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolouie&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!--
-**bolouie/bolouie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <a href="https://github.com/bolouie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolouie&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+<!-- **bolouie/bolouie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
