@@ -4,7 +4,7 @@ Hi 👋 My name is Bo.
 I'm a design researcher doing web development things.
 
 * 🌍  Based in Toronto
-* 📚  Learning JavaScript and React
+* 📚  Designing Artificial Intelligence (AI) applications at [OCAD University](https://continuingstudies.ocadu.ca/search/publicCourseSearchDetails.do?method=load&courseId=12164429&selectedProgramAreaId=17820&selectedProgramStreamId=17837)
 * 🧠  Curious about developers using the MERN stack and Vuejs.
 * 🔋  Working on my dev portfolio
 * 🎯  Goals: Build meaningful projects and contribute to open source!
