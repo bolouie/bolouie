@@ -4,7 +4,7 @@ Hi 👋 My name is Bo.
 I'm a design researcher doing web development things.
 
 * 🌍  Based in Toronto 🍁
-* 🧠  Building with AI
+* 🧠  Automating and building with AI
 * 🔋  Working on my dev portfolio
 * 🎯  Goals: Build meaningful projects and contribute to open source!
 
