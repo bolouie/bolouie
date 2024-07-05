@@ -3,8 +3,8 @@ Hi 👋 My name is Bo.
 
 I'm a design researcher doing web development things.
 
-* 📍  Based in Toronto 🍁
-* 🚀   Working on my dev portfolio
+* 📍 Based in Toronto 🍁
+* 🚀  Working on my dev portfolio
 * 🎯  Goals: Build meaningful projects and contribute to open source!
 
 ## Socials
