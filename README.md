@@ -1,6 +1,6 @@
 # Hi 👋 My name is Bo.
 
-I'm a design researcher doing full stack dev things.
+I'm a design researcher building full stack applications.
 
 - 📍 Based in Toronto 🍁
 - 🚀 Studying full stack development at Toronto Metropolitan University
