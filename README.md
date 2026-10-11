@@ -1,10 +1,11 @@
-# Hi 👋 My name is Bo.
+# Hi, I'm Bo 👋
 
-I'm a design researcher turned developer building full stack applications.
+Full-stack developer in Toronto 🍁 with a background in design research. 
 
-- 📍 Based in Toronto 🍁
-- 🚀 Completing studies in full stack development at Toronto Metropolitan University
-- 🎯 Goals: Build meaningful projects and contribute to open source!
+- 🥞 **Stack:** React, TypeScript, Python/Flask, PostgreSQL
+- 🛠️ **Building:** client sites on Astro and Netlify, and an offline-first budgeting app (in testing)
+- 🔍 **Focus:** accessibility (WCAG 2.1 AA, semantic HTML, keyboard-first)
+- 📚 **Training:** Full Stack Developer Certificate, Toronto Metropolitan University (done Dec 2026)
 
 ## Socials
 
