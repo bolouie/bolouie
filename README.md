@@ -3,7 +3,7 @@
 Full-stack developer in Toronto 🍁 with a background in design research. 
 
 - 🥞 **Stack:** React, TypeScript, Python/Flask, PostgreSQL
-- 🛠️ **Building:** client sites on Astro and Netlify, and an offline-first budgeting app (in testing)
+- 🛠️ **Building:** client sites on Astro and Netlify, and an offline-first personal finance app (in testing)
 - 🔍 **Focus:** accessibility (WCAG 2.1 AA, semantic HTML, keyboard-first)
 - 📚 **Training:** Full Stack Developer Certificate, Toronto Metropolitan University (done Dec 2026)
 
