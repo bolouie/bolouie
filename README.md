@@ -1,6 +1,6 @@
 # Hi, I'm Bo 👋
 
-Full-stack developer in Toronto 🍁 with a background in design research. 
+Full Stack Developer in Toronto 🍁 with a background in design research. 
 
 - 🥞 **Stack:** React, TypeScript, Python/Flask, PostgreSQL
 - 🛠️ **Building:** client sites on Astro and Netlify, and an offline-first personal finance app (in testing)
